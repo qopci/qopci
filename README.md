@@ -20,19 +20,26 @@
 
 <hr>
 
-<h3 align="center">🎀 Click The Bow 🎀</h3>
+<h3 align="center">🎀 Fun & Interactive 🎀</h3>
 
 <p align="center">
   <a href="https://neal.fun/cursor-infinity/" target="_blank" title="Play a fun game!">
-    <img src="https://media.giphy.com/media/l0MYyDA3rN4Q3KZTy/giphy.gif" alt="Click the Bow" width="150" style="cursor:pointer;" />
+    <img 
+      src="https://media.giphy.com/media/l0MYyDA3rN4Q3KZTy/giphy.gif" 
+      alt="Click the Bow" 
+      width="150" 
+      style="cursor:pointer; filter: drop-shadow(0 0 5px #ff69b4);" 
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bows%20Clicked-42-pink?style=for-the-badge" alt="Bows Clicked" />
+  <img src="https://komarev.com/ghpvc/?username=qopci&style=flat-square&color=ff69b4" alt="Profile Views" />
 </p>
 
-<p align="center"><i>(Click the bow and keep count! Update the number whenever you want ✨)</i></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qopci&theme=pink-green" alt="GitHub Streak" />
+</p>
 
 <hr>
 
