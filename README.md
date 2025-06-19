@@ -29,11 +29,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qopci&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&stroke=FF69B4" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qopci&layout=compact&theme=tokyonight&hide_border=true&stroke=FF69B4" alt="Top Languages" />
+  <table align="center" cellpadding="0" cellspacing="0" style="margin: auto;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=qopci&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&stroke=FF69B4" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qopci&layout=compact&theme=tokyonight&hide_border=true&stroke=FF69B4" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <hr>
