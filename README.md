@@ -20,11 +20,7 @@
 
 <hr>
 
-<h3 align="center">🎀 Fun & Interactive 🎀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qopci&style=flat-square&color=ff69b4" alt="Profile Views" />
-</p>
+<h3 align="center">🎀 Silly Stats 🎀</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qopci&theme=pink-green" alt="GitHub Streak" />
