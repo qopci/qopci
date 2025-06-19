@@ -1,7 +1,7 @@
 <h1 align="center"><small>🎀 Just a girl in Tech 🎀</small></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cat with Headphones" width="200" />
+  <img src="https://media.giphy.com/media/WXB88TeARFVvi/giphy.gif" alt="Cat with Headphones" width="200" />
 </p>
 
 <p align="center">
