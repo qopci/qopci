@@ -1,7 +1,7 @@
 <h1 align="center"><small>🎀 Just a girl in Tech 🎀</small></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Music Cat Vibing" width="200" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cat Vibing to Music" width="200" />
 </p>
 
 <p align="center">
