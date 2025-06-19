@@ -1,17 +1,15 @@
-<p align="center">
-  <table width="700" cellpadding="0" cellspacing="0" style="margin: auto;">
-    <tr>
-      <td align="left" width="350" style="vertical-align: middle;">
-        <h1 style="margin:0;">🎀 Just a girl in Tech 🎀</h1>
-      </td>
-      <td align="center" width="350" style="vertical-align: top;">
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="150" style="display:block; margin: 0 auto;" />
-        <br />
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=FFB6C1&width=350&lines=Hi+I'm+qopci.;Software+Development+Girly.;Music+Addict.;Frontend+%2B+Backend." style="display:block; margin: 0 auto;" />
-      </td>
-    </tr>
-  </table>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="60%">
+      <h1>🎀 Just a girl in Tech 🎀</h1>
+    </td>
+    <td align="right" width="40%" valign="top">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="150" />
+      <br />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=FFB6C1&width=350&lines=Hi+I'm+qopci.;Software+Development+Girly.;Music+Addict.;Frontend+%2B+Backend." />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -19,7 +17,7 @@
 
 <p align="center"><small>
   💻 Software Development Student @ Green River College <br>
-  🌱 Learning Full-Stack Dev & Data Structures <br>
+  🌱 Learning Full-Stack Dev & Docker Magic <br>
   🍰 Fueled By Sweets & Pretty UI Designs
 </small></p>
 
