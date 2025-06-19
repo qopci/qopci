@@ -1,15 +1,14 @@
-<table width="100%">
-  <tr>
-    <td align="left" width="60%">
-      <h1>🎀 Just a girl in Tech 🎀</h1>
-    </td>
-    <td align="right" width="40%" valign="top">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="150" />
-      <br />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=FFB6C1&width=350&lines=Hi+I'm+qopci.;Software+Development+Girly.;Music+Addict.;Frontend+%2B+Backend." />
-    </td>
-  </tr>
-</table>
+<h1 align="center"><small>🎀 Just a girl in Tech 🎀</small></h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="200" />
+</p>
+
+<p align="center">
+  <small>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&color=FFB6C1&width=435&lines=Hi+I'm+qopci.;Software+Development+Girly.;Music+Addict.;Frontend+%2B+Backend." />
+  </small>
+</p>
 
 <hr>
 
