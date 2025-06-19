@@ -37,8 +37,6 @@
   </table>
 </p>
 
-<hr>
-
 <p align="center"><small>
   Made with 💖 and bows by <strong>@qopci</strong>
 </small></p>
