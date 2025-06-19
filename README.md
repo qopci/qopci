@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">🎀 Just a girl in tech 🎀</h1>
 
-<!--
-**qopci/qopci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cute cat" width="200" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me 🎀
+
+- 💻 Software Development Student @ Green River College  
+- 🌱 Learning Full-Stack Dev & Deployment Workflows  
+
+---
+
+<p align="center">
+  Made with 💖 and bows by <strong>@qopci</strong>
+</p>
