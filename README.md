@@ -22,11 +22,7 @@
 
 <hr>
 
-<h3 align="center"><small>🎀 Silly Stats 🎀</small></h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qopci&theme=pink-green&hide_border=true&stroke=FF69B4" alt="GitHub Streak" />
-</p>
+<h3 align="center"><small>🎀 Github Stats 🎀</small></h3>
 
 <p align="center">
   <table align="center" cellpadding="0" cellspacing="0" style="margin: auto;">
