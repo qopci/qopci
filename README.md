@@ -10,7 +10,7 @@
 
 <hr>
 
-<h3 align="center">🌸 About Me 🎀</h3>
+<h3 align="center">🌸 About Me 🌸</h3>
 
 <p align="center">
   💻 Software Development Student @ Green River College <br>
@@ -24,16 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qopci&theme=pink-green" alt="GitHub Streak" />
-</p>
-
-<hr>
-
-<h3 align="center">💼 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/qopci/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </p>
 
 <hr>
