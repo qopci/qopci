@@ -16,7 +16,6 @@
 
 <p align="center"><small>
   💻 Software Development Student @ Green River College <br>
-  🌱 Learning Full-Stack Dev & Docker Magic <br>
   🍰 Fueled By Sweets & Pretty UI Designs
 </small></p>
 
