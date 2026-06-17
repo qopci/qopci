@@ -6,7 +6,7 @@
 
 <p align="center">
   <small>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&color=FFB6C1&width=435&lines=Hi+I'm+qopci.;Software+Development+Girly.;Music+Addict.;Frontend+%2B+Backend." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&color=FFB6C1&width=500&lines=Hi+I'm+qopci.;Software+Developer.;Frontend+%2B+Backend.;Building+Thoughtful+User+Experiences." />
   </small>
 </p>
 
@@ -15,7 +15,8 @@
 <h3 align="center"><small>🌸 About Me 🌸</small></h3>
 
 <p align="center"><small>
-  💻 Software Development Student @ Green River College <br>
-  🌱 Learning Full-Stack Dev & Data Structures <br>
-  🍰 Fueled By Sweets & Pretty UI Designs
+  🎓 Recent Software Development Graduate from Green River College <br>
+  💻 Aspiring Full-Stack Developer with a passion for Frontend & UI Design <br>
+  ✨ Creating accessible and user-friendly digital experiences <br>
+  🍰 Fueled by sweets and pretty UI designs
 </small></p>
