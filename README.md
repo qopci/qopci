@@ -15,7 +15,7 @@
 <h3 align="center"><small>🌸 About Me 🌸</small></h3>
 
 <p align="center"><small>
-  🎓 Recent Software Development Graduate from Green River College <br>
+  🎓 Software Development Graduate from Green River College <br>
   💻 Aspiring Full-Stack Developer with a passion for Frontend & UI Design <br>
   ✨ Creating accessible and user-friendly digital experiences <br>
   🍰 Fueled by sweets and pretty UI designs
