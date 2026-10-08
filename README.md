@@ -30,11 +30,11 @@
   <small>
     ʚɞ Software Development Graduate from Green River College
     <br><br>
-    𐙚 Aspiring Full-Stack Developer with a passion for Frontend & UI Design
+    𖹭 Aspiring Full-Stack Developer with a passion for Frontend & UI Design
     <br><br>
-    𖹭 Creating accessible and user-friendly digital experiences
+    ʚɞ Creating accessible and user-friendly digital experiences
     <br><br>
-    ☆ Fueled by sweets, cozy nights, and pretty UI designs
+    𖹭 Fueled by sweets, cozy nights, and pretty UI designs
   </small>
 </p>
 
