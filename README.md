@@ -46,7 +46,7 @@
   ✿✿ ─────────── ❤︎ ─────────── ✿✿
 </p>
 
-<h3 align="center">Currently Creating .ᐟ</h3>
+<h3 align="center">Currently Creating ˚. !!</h3>
 
 <p align="center">
   <small>
